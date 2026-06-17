@@ -97,7 +97,7 @@ AI-Revenue-Intelligence/
 
 1. **Clone & Navigate**:
    ```bash
-   git clone https://github.com/yourusername/AI-Revenue-Intelligence.git
+   git clone https://github.com/preethikasudhagar/AI-Revenue-Intelligence.git
    cd AI-Revenue-Intelligence
    ```
 2. **Environment & Setup**:
@@ -206,3 +206,27 @@ This guarantees the simulator operates within realistic historical limits.
 
 ### 🤖 Generative AI Marketing Insights
 ![Generative AI Marketing Insights](docs/screenshots/ai_insights.png)
+
+
+## Team Information
+
+### Team Name
+Jarvis
+
+### Team Members
+- Preethika S
+- Bhavana mythri M
+- Lehga subeksa L K
+
+### College Name
+Bannari Amman Institute of Technology (BIT)
+
+### Hackathon Submission
+NetElixir AIgnition 3.0
+
+### Contact
+📧 preethika.karur@gmail.com
+
+---
+
+Developed as part of the NetElixir AIgnition 3.0 Hackathon to build an AI-powered E-commerce Revenue & ROAS Forecasting Platform using Machine Learning, Probabilistic Forecasting, Budget Optimization, Risk Analysis, and Generative AI Insights.
